@@ -36,9 +36,6 @@ maintenance_predictive/
 │   ├── 03_predictive_maintenance.ipynb # Classification models (target_2h)
 │   └── 04_business_impact.ipynb        # Financial impact analysis
 │
-├── models/
-│   ├── model_final.pkl                 # Saved Gradient Boosting model
-│   └── scaler_final.pkl                # Saved StandardScaler
 │
 ├── README.md
 ├── requirements.txt
