@@ -1,0 +1,30 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Build / distribution
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Models / large generated files (important for ML projects)
+*.pkl
+*.joblib
+
