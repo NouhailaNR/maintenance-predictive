@@ -22,6 +22,7 @@ Three complementary datasets from a SCADA system:
 - **Final**:	`df_final.csv`	Final dataset with labeled target built from the three sources
 
 ## Project Structure
+```bash
 maintenance_predictive/
 │
 ├── data/
@@ -42,10 +43,12 @@ maintenance_predictive/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 ## Installation
 - **Clone repository**
-git clone https://github.com/NouhailaNR/maintenance-predictive.git
+git clone https://github.com/NouhailaNR/maintenance-predictive.git 
+
 cd maintenance-predictive
 
 **Install dependencies**
